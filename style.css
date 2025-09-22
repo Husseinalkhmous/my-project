@@ -1,3 +1,15 @@
+.test{
+    text-align: center;
+}
+.test #test{
+    color: red;
+}
+.test #test2{
+    color: black;
+}
+.test #test3{
+    color: rgba(6, 160, 45, 0.932);
+}
 #soso{
     border: 3px solid rgb(47, 48, 42);
 }
@@ -6,6 +18,9 @@
 }
 #shs{
         border: 3px solid rgb(47, 48, 42);
+}
+#demo{
+    border: 3px solid rgb(47, 48, 42);
 }
 .demo:hover{
     color: aliceblue;
