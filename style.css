@@ -1,0 +1,24 @@
+#soso{
+    border: 3px solid rgb(47, 48, 42);
+}
+#user{
+    border: 3px solid rgb(47, 48, 42);
+}
+#shs{
+        border: 3px solid rgb(47, 48, 42);
+}
+.demo:hover{
+    background-color: brown;
+}
+.semo:hover{
+    background-color: rgb(216, 5, 5);
+}
+.remo:hover{
+    background-color: aqua;
+}
+.nemo:hover{
+    background-color: blue;
+}
+.lemo:hover{
+    background-color: rgb(4, 4, 110);
+}
