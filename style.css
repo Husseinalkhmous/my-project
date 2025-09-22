@@ -8,10 +8,12 @@
         border: 3px solid rgb(47, 48, 42);
 }
 .demo:hover{
-    background-color: brown;
+    color: aliceblue;
+    background-color: rgb(42, 165, 63);
 }
 .semo:hover{
-    background-color: rgb(216, 5, 5);
+    color: aliceblue;
+    background-color: rgb(204, 170, 60);
 }
 .remo:hover{
     background-color: aqua;
@@ -20,5 +22,6 @@
     background-color: blue;
 }
 .lemo:hover{
+    color: aliceblue;
     background-color: rgb(4, 4, 110);
 }
